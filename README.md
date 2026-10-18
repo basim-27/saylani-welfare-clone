@@ -4,7 +4,7 @@ A recreation of the Saylani Welfare International Trust website built using **HT
 
 ## 🌐 Live Demo
 
-[View Live Website](https://basim-27.github.io/saylani-welfare-clone/)
+[View Live Website](https://saylaniwelfareclone1.netlify.app/)
 
 ## 📌 About the Project
 
